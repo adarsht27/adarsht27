@@ -1,6 +1,6 @@
 # Hi, I'm Adarsh 👋
 
-MPP student at Hertie School, Berlin — building at the intersection of public policy, machine learning, and data systems.
+MPP + MDS student at Hertie School, Berlin — building at the intersection of public policy, machine learning, and data systems.
 
 > Currently catching up on DSA and ML labs, building a learning portfolio on GitHub, and exploring how algorithmic systems shape policy outcomes.
 
