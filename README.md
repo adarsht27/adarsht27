@@ -18,7 +18,7 @@ MPP + MDS student at Hertie School, Berlin — building at the intersection of p
 `Machine Learning` `Data Structures & Algorithms` `Quantitative Methods` `Regression & Time Series` `Survey Data Analysis`
 
 **Policy**
-`AI Governance` `Energy Policy` `Qualitative Research (MaxQDA)` `Agent-based Modelling`
+`AI Governance` `Energy Policy` `Agent-based Modelling`
 
 ---
 
