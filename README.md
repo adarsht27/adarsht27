@@ -1,4 +1,4 @@
-# Hi, I'm Adarsh 👋
+# Hi, I am Adarsh 👋
 
 MPP + MDS student at Hertie School, Berlin — building at the intersection of public policy, machine learning, and data systems.
 
