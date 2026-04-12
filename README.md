@@ -24,13 +24,18 @@ MPP + MDS student at Hertie School, Berlin — building at the intersection of p
 
 ## Projects
 
-### 🔍 ML from scratch — labs & experiments
-Catching up on university ML labs and extending them into standalone experiments. Regression, classification, clustering — built to understand, not just run.
-→ [`hertie-ml-labs`](#)
+### 📌 Pinned repositories
+- <a href="https://github.com/adarsht27/iv-jandhan-india">iv-jandhan-india</a>
+- <a href="https://github.com/adarsht27/chatgpt-freelance-did">chatgpt-freelance-did</a>
+- <a href="https://github.com/adarsht27/misinformation_diffusion_model-fimi">misinformation_diffusion_model-fimi</a>
 
-### 🌐 Algorithms & data structures
-Implementations of core DSA concepts — graphs, greedy algorithms, divide & conquer, dynamic programming. Built alongside Kleinberg & Tardos.
-→ [`hertie-dsa-labs`](#)
+### 🔍 ML from scratch — labs & experiments *(coming soon)*
+Catching up on university ML labs and extending them into standalone experiments. Regression, classification, clustering — built to understand, not just run.  
+→ <a href="#">hertie-ml-labs</a>
+
+### 🌐 Algorithms & data structures *(coming soon)*
+Implementations of core DSA concepts — graphs, greedy algorithms, divide & conquer, dynamic programming. Built alongside Kleinberg & Tardos.  
+→ <a href="#">hertie-dsa-labs</a>
 
 ### 🚧 Policy × ML project *(coming soon)*
 Applying ML to a policy-relevant dataset. Connecting the technical and the political.
