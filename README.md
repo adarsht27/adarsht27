@@ -39,8 +39,7 @@ Applying ML to a policy-relevant dataset. Connecting the technical and the polit
 
 ## Background
 
-- Policy research on AI governance regulation (Germany & UK comparative analysis)
-- Energy policy analysis — France's Messmer nuclear programme (1974)
+- MPP Thesis Policy research on AI governance regulation (Germany & UK comparative analysis)
 - Quantitative methods: regression, logistic regression, ARIMA, Holt-Winters forecasting
 - R data analysis: dplyr/tidyverse, ggplot2 visualisations, web scraping with rvest
 - Agent-based modelling in NetLogo
