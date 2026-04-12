@@ -9,13 +9,13 @@ MPP + MDS student at Hertie School, Berlin — building at the intersection of p
 ## What I work with
 
 **Languages & tools**
-`Python` `R` `SQL` `Git`
+`Python` `R` `Git` `ArcGIS` `QGIS`
 
 **Data & ML**
 `scikit-learn` `pandas` `numpy` `ggplot2` `tidyverse` `Jupyter`
 
 **Methods**
-`Machine Learning` `Data Structures & Algorithms` `Quantitative Methods` `Regression & Time Series` `Survey Data Analysis`
+`Machine Learning` `Data Structures & Algorithms` `Quantitative Methods` `Regression` `Survey Data Analysis`
 
 **Policy**
 `AI Governance` `Energy Policy` `Agent-based Modelling`
