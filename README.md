@@ -25,20 +25,23 @@ MPP + MDS student at Hertie School, Berlin — building at the intersection of p
 ## Projects
 
 ### 📌 Pinned repositories
-- <a href="https://github.com/adarsht27/iv-jandhan-india">iv-jandhan-india</a>
-- <a href="https://github.com/adarsht27/chatgpt-freelance-did">chatgpt-freelance-did</a>
-- <a href="https://github.com/adarsht27/misinformation_diffusion_model-fimi">misinformation_diffusion_model-fimi</a>
+
+#### <a href="https://github.com/adarsht27/misinformation_diffusion_model-fimi">misinformation_diffusion_model-fimi</a>
+Agent-based model of FIMI disinformation diffusion, extending the SBFC framework (Sulis & Tambuscio, 2020) with asymmetric spreading and forgetting to simulate vulnerable vs. resilient EU information ecosystems.
+
+#### <a href="https://github.com/adarsht27/iv-jandhan-india">iv-jandhan-india</a>
+A causal inference project that studies whether India’s Pradhan Mantri Jan Dhan Yojana (PMJDY) expansion of bank accounts causally reduced poverty, using simulated synthetic data as an Instrumental Variables strategy.
+
+#### <a href="https://github.com/adarsht27/chatgpt-freelance-did">chatgpt-freelance-did</a>
+A Difference-in-Differences causal inference learning demo on ChatGPT’s Nov 2022 release and simulated freelance earnings across high vs low AI-exposure occupations.
+
+---
 
 ### 🔍 ML from scratch — labs & experiments *(coming soon)*
-Catching up on university ML labs and extending them into standalone experiments. Regression, classification, clustering — built to understand, not just run.  
-→ <a href="#">hertie-ml-labs</a>
-
-### 🌐 Algorithms & data structures *(coming soon)*
-Implementations of core DSA concepts — graphs, greedy algorithms, divide & conquer, dynamic programming. Built alongside Kleinberg & Tardos.  
-→ <a href="#">hertie-dsa-labs</a>
+Catching up on university ML labs and extending them into standalone experiments. Regression, classification, clustering — built to understand, not just run.
 
 ### 🚧 Policy × ML project *(coming soon)*
-Applying ML to a policy-relevant dataset. Connecting the technical and the political.
+Applying ML to a policy-relevant datasets from Kaggle. Connecting the technical and the political.
 
 ---
 
