@@ -1,8 +1,8 @@
-# Hi, I am Adarsh 👋
+# Hi, I am Adarsh 
 
-MPP + MDS student at Hertie School, Berlin — building at the intersection of public policy, machine learning, and data systems.
+MPP + MDS student at Hertie School, Berlin — building at the intersection of public policy, machine learning, and ai evaluations.
 
-> Currently catching up on DSA and ML labs, building a learning portfolio on GitHub, and exploring how algorithmic systems shape policy outcomes.
+> Currently working on a project to evaluation ai system in an experiment setting, building a learning portfolio on GitHub, and exploring how algorithmic systems shape policy outcomes.
 
 ---
 
@@ -37,14 +37,6 @@ A Difference-in-Differences causal inference learning demo on ChatGPT’s Nov 20
 
 ---
 
-### 🔍 ML from scratch — labs & experiments *(coming soon)*
-Catching up on university ML labs and extending them into standalone experiments. Regression, classification, clustering — built to understand, not just run.
-
-### 🚧 Policy × ML project *(coming soon)*
-Applying ML to a policy-relevant datasets from Kaggle. Connecting the technical and the political.
-
----
-
 ## Background
 
 - MPP Thesis Policy research on AI governance regulation (Germany & UK comparative analysis)
@@ -55,13 +47,5 @@ Applying ML to a policy-relevant datasets from Kaggle. Connecting the technical 
 
 ---
 
-## Currently learning
-
-- 📐 Data Structures & Algorithms (Kleinberg & Tardos)
-- 🤖 Machine Learning (Murphy's *Probabilistic Machine Learning*)
-- 🐍 Python — building fluency alongside coursework
-- 🇩🇪 German
-
----
 
 *Always open to conversations about policy, data, and where the two collide.*
