@@ -1,8 +1,8 @@
 # Hi, I am Adarsh 
 
-MPP + MDS student at Hertie School, Berlin — building at the intersection of public policy, machine learning, and ai evaluations.
+MPP + MDS student at Hertie School, Berlin — building at the intersection of public policy, machine learning, and AI evaluations.
 
-> Currently working on a project to evaluation ai system in an experiment setting, building a learning portfolio on GitHub, and exploring how algorithmic systems shape policy outcomes.
+> Currently evaluating AI systems in an experimental setting, fine-tuning small language models on Hugging Face, and exploring how algorithmic systems shape policy outcomes.
 
 ---
 
@@ -14,8 +14,11 @@ MPP + MDS student at Hertie School, Berlin — building at the intersection of p
 **Data & ML**
 `scikit-learn` `pandas` `numpy` `ggplot2` `tidyverse` `Jupyter`
 
+**LLMs & fine-tuning**
+`PyTorch` `Hugging Face Transformers` `PEFT / LoRA` `Unsloth` `bitsandbytes`
+
 **Methods**
-`Machine Learning` `Data Structures & Algorithms` `Quantitative Methods` `Regression` `Survey Data Analysis`
+`Machine Learning` `Causal Inference` `LLM Fine-tuning` `AI Evaluation` `Quantitative Methods` `Regression` `Survey Data Analysis`
 
 **Policy**
 `AI Governance` `Energy Policy` `Agent-based Modelling`
@@ -23,6 +26,11 @@ MPP + MDS student at Hertie School, Berlin — building at the intersection of p
 ---
 
 ## Projects
+
+### 🤗 Hugging Face
+
+#### <a href="https://huggingface.co/AdarshT/Llama-3.2-3B-Indian-Recipes">Llama-3.2-3B-Indian-Recipes</a>
+My first fine-tuned language model: a LoRA adapter on `Llama-3.2-3B-Instruct`, trained with Unsloth on 6,871 traditional and regional Indian recipes (`nf-analyst/indian_recipe`). Given a dish name, it generates structured recipes with ingredients, cooking times, diet tags and step-by-step instructions.
 
 ### 📌 Pinned repositories
 
@@ -39,11 +47,10 @@ A Difference-in-Differences causal inference learning demo on ChatGPT’s Nov 20
 
 ## Background
 
-- MPP Thesis Policy research on AI governance regulation (Germany & UK comparative analysis)
-- Quantitative methods: regression, logistic regression, ARIMA, Holt-Winters forecasting
-- R data analysis: dplyr/tidyverse, ggplot2 visualisations, web scraping with rvest
-- Agent-based modelling in NetLogo
-- Qualitative research with MaxQDA
+- **MPP thesis:** comparative policy research on AI governance and regulation in Germany and the UK
+- **Quantitative:** regression, causal inference (IV, DiD), time-series forecasting (ARIMA, Holt-Winters) in R and Python
+- **Modelling:** agent-based models in NetLogo and Python
+- **Qualitative:** interview and document analysis with MaxQDA
 
 ---
 
